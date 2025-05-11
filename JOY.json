@@ -1,3 +1,110 @@
-FACEBOOK ID COOKIES 😈
-
-JOY BOT PROJECT 🙂🤞
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261576236687055%22%3A%22gHBCfJLG%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.745Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "datr",
+        "value": "FVIfaEs6Bk2HdMTnyG8T3VES",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "sb",
+        "value": "FVIfaOc17DFW3omzWXYUyTBw",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61576236687055",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "fr",
+        "value": "0BWsE6FiJbiaYXbSl.AWdSmuQ6smcfFt3nA07HPC4Ur6iHeVYR4Mrp4lL_e97LDqW3eRA.BoH1IV..AAA.0.0.BoH1It.AWcz_kws03b-66fFFNhyBxW79u8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "xs",
+        "value": "50%3AAdrtWHS--2u8VA%3A2%3A1746883123%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B766x393x2.225780963897705",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101424052%3BT%3A29115542",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2810%3Btimestamp%3A1746932551",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-11T03:02:45.746Z",
+        "lastAccessed": "2025-05-11T03:02:45.746Z"
+    }
+      ]
