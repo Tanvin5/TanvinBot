@@ -24,15 +24,15 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.imgur.com/FJpu40m.jpeg"];
+["https://i.imgur.com/pbNzTHq.jpeg"];
 var callback = () => api.sendMessage({body:` 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 
 
 
 𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 : ${global.config.BOTNAME}
 
-𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍 : 𝐉𝐎𝐘 𝐀𝐇𝐌𝐄𝐃
+𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍 : TANVIN 
 
-𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 : https://www.facebook.com/profile.php?id=100000121528628
+𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 : https://www.facebook.com/profile.php?id=61576236687055
 
 𝐀𝐃𝐃𝐑𝐄𝐒𝐒 : 𝐉𝐀𝐌𝐀𝐋𝐏𝐔𝐑
 
@@ -42,7 +42,7 @@ var callback = () => api.sendMessage({body:` 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 �
 
 𝐁𝐎𝐓 𝐏𝐑𝐄𝐅𝐈𝐗 : ${global.config.PREFIX}
 
-𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 : 𝐌𝐃 𝐉𝐔𝐁𝐀𝐄𝐃 𝐀𝐇𝐌𝐄𝐃 𝐉𝐎𝐘
+𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 : TANVIN 
 
 🥳𝐔𝐏𝐓𝐈𝐌𝐄🥳
 
