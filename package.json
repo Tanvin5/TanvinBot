@@ -1,7 +1,7 @@
 {
-  "name": "JOY",
+  "name": "TANVIN ",
   "version": "10.1.1",
-  "description": "MADE BY JOY AHMED",
+  "description": "MADE BY TANVIN",
   "main": "JOY.js",
   "engines": {
       "node": "20.x",
@@ -26,7 +26,7 @@
       "prince",
       "mental"
   ],
-  "author": "JOY AHMED",
+  "author": "TANVIN",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/JUBAED-AHMED-0JOY/JOY-BOT/issues"
